@@ -11,6 +11,6 @@ dist/
 Thumbs.db
 .DS_Store
 
-# Editor folders (optional but safe)
+# Editor folders
 .vscode/
 .idea/

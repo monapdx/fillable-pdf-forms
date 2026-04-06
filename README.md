@@ -1,8 +1,8 @@
-# FormFill PDF
+# Fillable PDF Forms
 
 **Draw fields. Export fillable PDFs.**
 
-FormFill PDF is a desktop application that lets you turn any existing
+Fillable PDF Forms is a desktop application that lets you turn any existing
 PDF into a fully fillable form.\
 Simply open a PDF, click and drag where you want fields to go, choose
 the field type, and export a professional AcroForm-enabled PDF.
@@ -46,7 +46,7 @@ No design tools. No complex editors. Just point, drag, and generate.
 
 ## 🛠️ Installation
 
-FormFill PDF runs as a Python desktop app.
+Fillable PDF Forms runs as a Python desktop app.
 
 ### Requirements
 
@@ -101,12 +101,12 @@ layout and spacing before distributing.
 
 ------------------------------------------------------------------------
 
-## 🧠 Why FormFill PDF?
+## 🧠 Why Fillable PDF Forms?
 
 Most tools for making fillable PDFs are either: - Expensive - Web-based
 (privacy concerns) - Overly complex
 
-**FormFill PDF focuses on speed, control, and simplicity.**\
+**Fillable PDF Forms focuses on speed, control, and simplicity.**\
 If you can draw a box on a page, you can build a form.
 
 ------------------------------------------------------------------------
@@ -114,7 +114,7 @@ If you can draw a box on a page, you can build a form.
 ## 📁 Project Structure
 
 ``` text
-FormFillPDF/
+fillable-pdf-forms/
 │
 ├── designer_app.py      # Main desktop application
 ├── README.md
