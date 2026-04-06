@@ -114,7 +114,7 @@ If you can draw a box on a page, you can build a form.
 ## 📁 Project Structure
 
 ``` text
-FormFillPDF/
+fillable-pdf-forms/
 │
 ├── designer_app.py      # Main desktop application
 ├── README.md
