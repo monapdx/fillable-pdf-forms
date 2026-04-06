@@ -1,5 +1,7 @@
 # Fillable PDF Forms
 
+<img src="https://raw.githubusercontent.com/monapdx/fillable-pdf-forms/refs/heads/main/social-preview.png">
+
 **Draw fields. Export fillable PDFs.**
 
 Fillable PDF Forms is a desktop application that lets you turn any existing
