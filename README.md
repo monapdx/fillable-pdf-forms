@@ -1,15 +1,11 @@
 # Fillable PDF Forms
 
-<img src="https://raw.githubusercontent.com/monapdx/fillable-pdf-forms/refs/heads/main/social-preview.png">
+| Product | Description |
+|---|---|
+| <img src="product.png" width="402"> | **Draw fields. Export fillable PDFs.** Fillable PDF Forms is a desktop application that lets you turn any existing PDF into a fully fillable form. |
 
-**Draw fields. Export fillable PDFs.**
-
-Fillable PDF Forms is a desktop application that lets you turn any existing
-PDF into a fully fillable form.\
-Simply open a PDF, click and drag where you want fields to go, choose
-the field type, and export a professional AcroForm-enabled PDF.
-
-No design tools. No complex editors. Just point, drag, and generate.
+> Simply open a PDF, click and drag where you want fields to go, choose
+the field type, and export a professional AcroForm-enabled PDF. No design tools. No complex editors. Just point, drag, and generate.
 
 ------------------------------------------------------------------------
 
