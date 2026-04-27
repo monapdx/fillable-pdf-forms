@@ -1,5 +1,12 @@
 from __future__ import annotations
 
+"""
+Legacy single-page template renderer (root-level "fields", optional "page.size").
+
+For multi-page PDFs and designer exports, use fillable_pdf_core.make_fillable_from_background
+or overlay_fillable / pdf_overlay with a template JSON that includes background_pdf and pages[].
+"""
+
 import json
 from pathlib import Path
 from typing import Any, Dict
